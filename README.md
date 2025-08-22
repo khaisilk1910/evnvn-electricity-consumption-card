@@ -1,4 +1,5 @@
 # Thẻ hiển thị Sản Lượng và Thành Tiền theo từng Bậc giá điện của EVN Việt Nam
+<img width="1226" height="601" alt="image" src="https://github.com/user-attachments/assets/0ed38e82-8766-4d7a-a647-c8354893efce" />
 
 
 ## Hướng dẫn:
