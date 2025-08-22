@@ -37,7 +37,7 @@
      type: custom:custom-electric-bill-card-total-days
      entity: sensor.tongou_bo_energy_monthly
      title: Công tơ Bố
-     used_days: 15
+     used_days: 15 #Để trống (hoặc điền null) nếu không muốn giới hạn số ngày muốn tính. Sẽ tự động lấy số ngày trong tháng hiện tại
      prices:
        - 1984 #Giá bậc 1
        - 2050 #Giá bậc 2
