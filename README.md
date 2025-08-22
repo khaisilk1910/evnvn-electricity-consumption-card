@@ -1,9 +1,14 @@
 # Thẻ hiển thị Sản Lượng và Thành Tiền theo từng Bậc giá điện của EVN Việt Nam
 <img width="1226" height="601" alt="image" src="https://github.com/user-attachments/assets/0ed38e82-8766-4d7a-a647-c8354893efce" />
+
 - Dùng cho tự theo dõi tiền điện theo sensor sản lượng điện mà bạn có.
+  
 - Biểu giá và bậc lấy từ EVN cho điện sinh hoạt
+  
 - Tổng tiền tạm tính theo sản lượng sensor thiết bị của bạn nên có thể lệch so với tổng tiền hóa đơn điện EVN.
+  
 - Có thể thêm nhiều Card để theo dõi cho các công tơ.
+
 - Nếu bạn có nhiều công tơ theo dõi muốn tổng hãy vào Helpers để tạo một Sensor tổng sản lượng cho các công tơ và thêm card với sensor tổng này.
 
 
