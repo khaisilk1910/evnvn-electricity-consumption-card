@@ -9,7 +9,7 @@
      
      <img width="303" height="437" alt="image" src="https://github.com/user-attachments/assets/71489d94-bc79-4f12-9941-9c1ce56152e8" />
 
-   - Điền `https://github.com/khaisilk1910/evnvn-electricity-consumption-card` và chọn Dashboard và nhấn Add
+   - Điền ```https://github.com/khaisilk1910/evnvn-electricity-consumption-card``` và chọn Dashboard và nhấn Add
      
      <img width="433" height="487" alt="image" src="https://github.com/user-attachments/assets/755a49cb-58a6-481d-b6ad-650017615e86" />
 
