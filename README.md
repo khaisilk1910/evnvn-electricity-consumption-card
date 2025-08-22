@@ -46,5 +46,4 @@
        - 3350 #Giá bậc 5
        - 3460 #Giá bậc 6
       ```
-     
-     <img width="1020" height="768" alt="image" src="https://github.com/user-attachments/assets/2aa98f8f-461a-4397-99a3-cf0fdc22755a" />
+     <img width="1025" height="764" alt="image" src="https://github.com/user-attachments/assets/25ff473f-812d-4c6d-94d1-8a3b4f9ed4bc" />
