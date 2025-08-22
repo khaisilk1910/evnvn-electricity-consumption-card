@@ -26,8 +26,8 @@
      
    - Thêm thẻ mới và điền
      ```
-     type: custom:custom-electric-bill-card-total-days
-     entity: sensor.tongou_bo_energy_monthly
+     type: custom:evnvn-electricity-consumption-card
+     entity: sensor.tongou_bo_energy_monthly #Thay bằng sensor sản lượng tháng của bạn
      title: Công tơ Bố
      used_days: 15 #Để trống (hoặc điền null) nếu không muốn giới hạn số ngày muốn tính. Sẽ tự động lấy số ngày trong tháng hiện tại
      prices:
